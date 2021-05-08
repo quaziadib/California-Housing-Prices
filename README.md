@@ -1,4 +1,4 @@
-# California-Housing-Prices
+# California Housing Prices
 This repository is based on "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.
 
 Chapter 2: End-to-End Machine Learning Project
